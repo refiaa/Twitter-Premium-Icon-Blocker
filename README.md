@@ -1,5 +1,9 @@
 # Twitter Element Blocker
 
+
+<img src="https://github.com/user-attachments/assets/94d60c2b-c771-4a7e-8df2-fe3f5a12b065" alt="Twitter Element Blocker Logo" style="border-radius: 10px;" />
+
+
 やっぱプレミアムとかって要らないとと思うんすよ
 
 ## Main Feature
