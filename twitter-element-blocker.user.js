@@ -127,14 +127,16 @@
         }
 
         createSettingsButton() {
-            const button = document.createElement('button');
-            button.textContent = 'Twitter Element Blocker Settings';
-            button.style.position = 'fixed';
-            button.style.bottom = '20px';
-            button.style.right = '20px';
-            button.style.zIndex = '9999';
-            button.addEventListener('click', this.openSettingsModal.bind(this));
-            return button;
+            /*
+                const button = document.createElement('button');
+                button.textContent = 'Twitter Element Blocker Settings';
+                button.style.position = 'fixed';
+                button.style.bottom = '20px';
+                button.style.right = '20px';
+                button.style.zIndex = '9999';
+                button.addEventListener('click', this.openSettingsModal.bind(this));
+                return button;
+            */
         }
 
         openSettingsModal() {
